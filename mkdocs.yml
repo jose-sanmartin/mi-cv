@@ -1,0 +1,9 @@
+site_name: José San Martin
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Experiencia: proyectos.md
+  - Educación: educacion.md
+  - Habilidades: habilidades.md
+
