@@ -1,5 +1,4 @@
 # Habilidades
 
-- **Lenguajes de Programación**: Python, R, SQL
-- **Herramientas**: Git, Docker, Tableau
-- **Idiomas**: Español (nativo), Inglés (avanzado)
+- **Lenguajes de Programación**: R, Python y Stata
+- **Herramientas**: Tableau y Excel
